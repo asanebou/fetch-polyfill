@@ -1,0 +1,6 @@
+# fetch-polyfill
+fetch polyfill which supports all mainstream browsers, even  IE6, IE7, IE8.....
+base on  RubyLouvre/fetch-polyfill and mdn/fetch-examples
+未完全测试...
+
+用法参照examples

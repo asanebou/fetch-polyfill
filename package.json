@@ -1,0 +1,30 @@
+{
+  "name": "fetch-polyfill",
+  "version": "0.0.1",
+  "description": "fetch polyfill which supports all mainstream browsers, even IE6, IE7, IE8.....",
+  "main": "dist/asanebou.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "pkg" : "webpack --config webpack.config.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asanebou/fetch-polyfill.git"
+  },
+  "keywords": [
+    "fetch",
+    "ajax"
+  ],
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  },
+  "author": "asanebou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asanebou/fetch-polyfill/issues"
+  },
+  "homepage": "hhttps://github.com/asanebou/fetch-polyfill/blob/master/README.md"
+}
